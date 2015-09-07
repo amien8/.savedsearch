@@ -1,44 +1,9 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 Bug tracker - [github.com/russianidiot/.savedsearch/issues](http://github.com/russianidiot/.savedsearch/issues)
 <img src="http://russianidiot.github.io/images/issue/16.png" />
 
 ---
-
-
-
-
-
-
 
 <p align="center">
 	all repos <a href="http://russianidiot.github.com/">russianidiot.github.com</a> <img src="http://russianidiot.github.io/images/star/16.png" />
@@ -53,4 +18,3 @@ Bug tracker - [github.com/russianidiot/.savedsearch/issues](http://github.com/ru
 	follow me <a href="http://github.com/russianidiot">github.com/russianidiot</a>
 <img src="http://russianidiot.github.io/images/github/16.png" />
 </p>
-
