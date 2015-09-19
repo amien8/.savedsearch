@@ -1,3 +1,7 @@
+<p align="center">
+	<b>~/.savedsearch/*.savedsearch - custom Smart Folders</b>
+</p>
+
 ---
 
 Bug tracker - [github.com/russianidiot/.savedsearch/issues](http://github.com/russianidiot/.savedsearch/issues)
