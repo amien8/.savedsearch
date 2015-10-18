@@ -7,6 +7,10 @@
 	&amp;&amp; _kMDItemGroupId = 9 
 	&amp;&amp; kMDItemDisplayName = "*.py"
 	&amp;&amp; kMDItemDisplayName != "setup.py"
+	&amp;&amp; kMDItemDisplayName != "django-admin.py"
+	&amp;&amp; kMDItemDisplayName != "github3.py"
+	&amp;&amp; kMDItemDisplayName != "settings.py"
+	&amp;&amp; kMDItemDisplayName != "urls.py"
 	&amp;&amp; kMDItemDisplayName != "* *"
 	</string>
 	<key>SearchCriteria</key>
